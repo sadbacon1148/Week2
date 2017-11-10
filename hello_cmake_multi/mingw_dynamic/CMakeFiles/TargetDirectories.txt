@@ -1,0 +1,4 @@
+Z:/week2/hello_cmake_multi/mingw_dynamic/CMakeFiles/rebuild_cache.dir
+Z:/week2/hello_cmake_multi/mingw_dynamic/CMakeFiles/maths.dir
+Z:/week2/hello_cmake_multi/mingw_dynamic/CMakeFiles/calc.dir
+Z:/week2/hello_cmake_multi/mingw_dynamic/CMakeFiles/edit_cache.dir

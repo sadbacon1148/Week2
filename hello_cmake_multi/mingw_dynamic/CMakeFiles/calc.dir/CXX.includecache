@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+Z:/week2/hello_cmake_multi/adder.h
+
+Z:/week2/hello_cmake_multi/calc.cpp
+sstream
+-
+iostream
+-
+adder.h
+Z:/week2/hello_cmake_multi/adder.h
+
