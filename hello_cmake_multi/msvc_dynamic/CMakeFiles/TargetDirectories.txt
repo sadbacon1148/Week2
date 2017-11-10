@@ -1,0 +1,4 @@
+Z:/week2/hello_cmake_multi/msvc_dynamic/CMakeFiles/maths.dir
+Z:/week2/hello_cmake_multi/msvc_dynamic/CMakeFiles/calc.dir
+Z:/week2/hello_cmake_multi/msvc_dynamic/CMakeFiles/ALL_BUILD.dir
+Z:/week2/hello_cmake_multi/msvc_dynamic/CMakeFiles/ZERO_CHECK.dir

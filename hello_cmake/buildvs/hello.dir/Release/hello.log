@@ -1,0 +1,4 @@
+﻿  Building Custom Rule Z:/week2/hello_cmake/CMakeLists.txt
+  CMake does not need to re-run because Z:/week2/hello_cmake/buildvs/CMakeFiles/generate.stamp is up-to-date.
+  hello.cpp
+  hello.vcxproj -> Z:\week2\hello_cmake\buildvs\Release\hello.exe
